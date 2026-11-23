@@ -127,3 +127,11 @@ If a session resumes with a project already open, inspect the current project an
 4. Prepare the final title, description, thumbnail, audience setting, visibility, and upload file for the Omazmusic YouTube channel. Review the final video and metadata together before upload.
 5. Set the planned publication for 48 hours after the upload is ready. Convert the intended date and time to UK local time (Europe/London), accounting for GMT/BST on that date, and check the exact time displayed by YouTube Studio before confirming. Keep a record of the scheduled date, UK time, and YouTube Studio status. If the user has not approved the final package and time, prepare the upload but do not confirm the schedule.
 6. After scheduling, reopen YouTube Studio and verify the video appears with the correct title, visibility, date, and UK time. Record the video link and scheduled details in the project manifest.
+
+
+## 10. Keep the recurring character, vary each album scene
+
+- Use the same recognizable young man from the approved channel artwork for every album. Preserve his face, age, hair, headphones, and overall identity. When creating a new image, use the approved image as the visual reference if available; do not invent a different lead character.
+- Change his posture, activity, and environment for each album so each cover feels new while the channel still feels consistent. Keep the banner palette and bright, welcoming tone.
+- For the next album, show the same man playing a guitar in a relaxed seated posture. Choose a distinct, inviting setting that fits the music, such as a sunlit living room or bright conservatory. Keep the guitar clearly visible and leave space near the bottom for the waveform.
+- Before animating, check that the pose and hands suit the activity. Use subtle motion that fits the scene, such as gentle guitar picking, small finger movement, and natural breathing, with a mostly fixed camera. Review a proof clip for hand and instrument distortions before building the long video.
