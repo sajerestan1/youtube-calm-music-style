@@ -151,3 +151,9 @@ Canva is the main project for assembling, saving, and exporting each Omazmusic a
 8. Prepare the Omazmusic title, description, and chapters from verified audio content and timing. Schedule for 48 hours after the upload is ready, using Europe/London local time. Upload and confirm scheduling only after the user approves the final package and displayed publication time.
 
 Use the earlier Video Express motion instructions only when a separate motion asset is needed for import into Canva. Do not assemble or export the album in Video Express.
+
+
+## Album 2 audio and animation rule
+
+- Keep the Canva video at 90 minutes (1:30:00), with the audio and visual lanes ending together.
+- Mute the Video Express animation's audio before adding it to Canva, then confirm its clip volume is zero in Canva so only the album music plays. Loop or extend the short visual across the full timeline and save the design.
