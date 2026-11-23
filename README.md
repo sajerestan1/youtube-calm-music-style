@@ -135,3 +135,19 @@ If a session resumes with a project already open, inspect the current project an
 - Change his posture, activity, and environment for each album so each cover feels new while the channel still feels consistent. Keep the banner palette and bright, welcoming tone.
 - For the next album, show the same man playing a guitar in a relaxed seated posture. Choose a distinct, inviting setting that fits the music, such as a sunlit living room or bright conservatory. Keep the guitar clearly visible and leave space near the bottom for the waveform.
 - Before animating, check that the pose and hands suit the activity. Use subtle motion that fits the scene, such as gentle guitar picking, small finger movement, and natural breathing, with a mostly fixed camera. Review a proof clip for hand and instrument distortions before building the long video.
+
+
+## 11. Current default: Canva-first album production
+
+Canva is the main project for assembling, saving, and exporting each Omazmusic album. Keep each album in its own Canva design. Use the existing design tab when it is the intended project; do not open duplicate tabs for the same design.
+
+1. Create or duplicate a 1920 × 1080 landscape design for the new album. Keep the same recognizable young man from the approved channel artwork, including his face and headphones, while changing his posture, activity, and setting to fit the album. Use the channel banner colors and a bright, welcoming scene.
+2. Upload only this album’s artwork and original tracks to Canva. Add files one at a time and save after meaningful edits so the editor stays responsive.
+3. Place the tracks in order on one continuous audio lane, beginning at zero. Use only the album’s tracks or its final mix, never both. If the source sequence is shorter than 90 minutes, repeat the full sequence and trim only the final repeat to the measured target. Verify the timeline end against the audio end.
+4. Loop or extend the artwork and waveform to the full audio duration. Keep the waveform near the bottom and directly above the image lane. Use Canva’s available animation for gentle motion. If a separate short motion clip is specifically needed, import it into Canva and check that the visual covers the full timeline. Canva remains the saved project and final export location.
+5. Use Canva’s Captions app only when the audio contains speech or sung lyrics. Check captions against the audio. Do not use speech captions for instrumental music; the first album’s auto-caption pass invented lyrics.
+6. Save often. Preview the start, a middle point, and the end. Confirm the audio, artwork, and waveform all reach the same final time and check for gaps or abrupt loops.
+7. Export from Canva as a 1920 × 1080 MP4. Open the export and verify its actual duration and playback near the beginning, middle, and end. Do not rely on the timeline display alone.
+8. Prepare the Omazmusic title, description, and chapters from verified audio content and timing. Schedule for 48 hours after the upload is ready, using Europe/London local time. Upload and confirm scheduling only after the user approves the final package and displayed publication time.
+
+Use the earlier Video Express motion instructions only when a separate motion asset is needed for import into Canva. Do not assemble or export the album in Video Express.
