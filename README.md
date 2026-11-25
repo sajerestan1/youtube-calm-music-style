@@ -194,3 +194,14 @@ Album 03 was uploaded through the signed-in YouTube Studio tab in Chrome. Keep u
 - The Album 03 upload began at a 22% progress snapshot. The accepted schedule was 27 November 2026 at 10:00 Europe/London. This is the confirmed schedule time from the Studio upload dialog; the actual file duration remained 1:29:56, four seconds below the nominal 90-minute target, so do not claim it is at least 90 minutes.
 
 For an existing album with no or incorrect thumbnail, edit its existing Studio video details and upload the approved thumbnail file. Do not delete and re-upload the video unless Studio cannot change the thumbnail on the existing item or the user explicitly asks for a replacement upload. Preserve its description and verified chapter timestamps while editing. Reopen the details after saving and confirm the thumbnail and chapters remain.
+
+
+## Album 04: train ride home
+
+- Give the recurring young man a new outfit and setting for each album while preserving his recognizable face and headphones. Album 04 uses a light cream knit top and muted olive jacket on an evening train, with a warm city view through the window.
+- Keep the artwork bright and welcoming. Use restrained motion in the window scene; if the scene is animated in Video Express, mute the clip audio before placing it in Canva.
+- Clone Voice lyrics must be plain text. Do not type square brackets, curly braces, asterisks, or formatting tags into lyrics. Let Clone Voice split blank-line paragraphs automatically.
+- Submit one music generation at a time and wait for its lyric preview and submission to finish before navigating away. Confirm each track appears in My Audio before starting the next, so a route change cannot interrupt an in-flight submission.
+- Canva audio must be on one straight lane, edge to edge, with no stacked overlap. Duplicate the complete track sequence only until the measured video runtime reaches at least 90:00. Stop on an exact track boundary where practical, then verify the final runtime and chapter times against the exported file.
+- Make a separate Album 04 Canva timeline. Keep the audio, muted motion visual, and waveform aligned to the same end point. Use the Match and Move transition between alternating visual clips if both clips have been checked and their timing fits the audio.
+- Current Album 04 working title: “Relaxing Music for the Train Ride Home | Soft Acoustic Songs to Unwind”. Confirm the final title, thumbnail wording, measured runtime, chapters, and schedule against the finished export before upload.
