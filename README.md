@@ -133,7 +133,7 @@ If a session resumes with a project already open, inspect the current project an
 
 - Use the same recognizable young man from the approved channel artwork for every album. Preserve his face, age, hair, headphones, and overall identity. When creating a new image, use the approved image as the visual reference if available; do not invent a different lead character.
 - Change his posture, activity, and environment for each album so each cover feels new while the channel still feels consistent. Keep the banner palette and bright, welcoming tone.
-- For the next album, show the same man playing a guitar in a relaxed seated posture. Choose a distinct, inviting setting that fits the music, such as a sunlit living room or bright conservatory. Keep the guitar clearly visible and leave space near the bottom for the waveform.
+- For Album 03, use the same man resting comfortably on a bed, wearing headphones, with eyes gently closed and hands relaxed on the duvet. No book and no instrument. Use a new, bright bedroom scene while preserving his recognizable face and the channel's warm palette.
 - Before animating, check that the pose and hands suit the activity. Use subtle motion that fits the scene, such as gentle guitar picking, small finger movement, and natural breathing, with a mostly fixed camera. Review a proof clip for hand and instrument distortions before building the long video.
 
 
@@ -157,3 +157,21 @@ Use the earlier Video Express motion instructions only when a separate motion as
 
 - Keep the Canva video at 90 minutes (1:30:00), with the audio and visual lanes ending together.
 - Mute the Video Express animation's audio before adding it to Canva, then confirm its clip volume is zero in Canva so only the album music plays. Loop or extend the short visual across the full timeline and save the design.
+
+
+## 12. Album 03 and timeline lessons
+
+Album 03 is a new Canva project called **Soft Acoustic at Home**. Its visual uses the recurring young man resting on his bed with headphones, eyes gently closed and hands relaxed on the duvet. He is not reading or playing an instrument in this album's scene. Keep the bedroom bright, spacious, and welcoming, with cream, warm wood, and sage accents.
+
+For every new album:
+
+1. Start a separate Canva design and timeline. Never alter a completed or in-progress earlier album to begin the next one.
+2. Upload only that album's approved image, waveform, and original music tracks. Add files one at a time and save after each meaningful change.
+3. Place music clips in one audio lane, in order. Align their edges end-to-end so they touch without overlap. Do not stack audio clips on different lanes. Check the join before adding the next clip.
+4. The combined music must reach at least 1:30:00. If it is shorter, repeat the full approved track sequence and trim only at the end. Confirm the measured export length, not only the timeline ruler.
+5. Mute each animated visual clip before placing it in Canva. Alternate the two clips and extend or duplicate them to the exact audio end. Apply Canva's **Match and Move** transition between clips, then apply it to all. Check transitions for gaps and keep the final visual end aligned with the music.
+6. Keep the waveform in the video timeline near the bottom and above the image/animation layer. The waveform is visual only; it must not cover the character or carry sound.
+7. Keep thumbnail text on the separate thumbnail image. Do not add the video title as a permanent overlay on the album video.
+8. Save frequently, preview the beginning, middle, and end, and verify that the audio, animated clips, and waveform all reach the same endpoint before export.
+
+Use original song titles and lyrics. For the YouTube title, lead with familiar phrases viewers search for and describe the real listening use. Do not use an internal track title as the whole video title unless it clearly tells viewers what they will hear. Chapters and lyric captions must match the measured final mix and the actual audio.
