@@ -1,6 +1,10 @@
 # Omazmusic calm album video workflow
 
-This is the repeatable process for making long-form calm music videos for Omazmusic with original music, Video Express, and Canva. Keep the project manifest updated so a later session can resume without rebuilding assets or guessing track timing.
+This repository records the production process for original long-form music videos for the Omazmusic YouTube channel.
+
+> **For every new album, read [ALBUM_CREATION_WORKFLOW.md](ALBUM_CREATION_WORKFLOW.md) first. It is the current step-by-step instruction and takes precedence over older or album-specific notes below.** Start by offering exactly five topic choices and wait for the user's choice. After the tracks are made and uploaded to Canva, ask whether the album will use three-angle animated artwork, a user-supplied video clip, or a still image.
+
+The workflow file covers track creation to at least 90 minutes, the Canva timeline, subtitle timing, waveform and transitions, export checks, YouTube title and thumbnail research, verified description timestamps, and scheduling 48 hours ahead in UK local time. Keep the album notes below as history and project context; do not follow older steps when they conflict with the current workflow.
 
 ## Creative direction
 
