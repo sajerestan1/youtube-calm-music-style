@@ -180,3 +180,17 @@ Use original song titles and lyrics. For the YouTube title, lead with familiar p
 ## Clone Voice lyrics must be plain text
 
 When using **Create Music**, enter only the lyric words and ordinary punctuation in the lyrics field. Do not add section labels such as verse or chorus, bracket tags, braces, asterisks, Markdown, or decorative symbols. Put production instructions in the separate style field. Keep one song per generation and use the track title as the output name when the app permits it. Do not submit markup that the lyric field may reject.
+
+
+## Album 03 YouTube handoff lessons
+
+Album 03 was uploaded through the signed-in YouTube Studio tab in Chrome. Keep using the existing Studio tab and the active upload dialog; avoid opening extra tabs or switching to the unrelated in-app YouTube session. The upload worked without needing the user to operate the browser.
+
+- Enter the verified chapters in the description before scheduling. Use the same measured track-boundary sheet used to build the mix. Check that the first chapter starts at 00:00 and that the final chapter begins before the measured video end.
+- Upload the approved thumbnail in the upload details step and wait for YouTube Studio to show that it has uploaded.
+- Set the intended UK publication timezone to Europe/London and verify the displayed date and time before confirming.
+- YouTube may show a content-check warning while checks are still running. Read and acknowledge it, then complete the scheduling confirmation if the Schedule button remains enabled. If YouTube says the video will publish after upload and processing finish, keep the Studio tab open and report the upload as ongoing until completion.
+- After confirmation, verify the scheduled result in Studio. Record the watch URL, scheduled date/time, upload progress, and whether checks are still pending. Do not call the upload complete while progress remains below 100%.
+- The Album 03 upload began at a 22% progress snapshot. The accepted schedule was 27 November 2026 at 10:00 Europe/London. This is the confirmed schedule time from the Studio upload dialog; the actual file duration remained 1:29:56, four seconds below the nominal 90-minute target, so do not claim it is at least 90 minutes.
+
+For an existing album with no or incorrect thumbnail, edit its existing Studio video details and upload the approved thumbnail file. Do not delete and re-upload the video unless Studio cannot change the thumbnail on the existing item or the user explicitly asks for a replacement upload. Preserve its description and verified chapter timestamps while editing. Reopen the details after saving and confirm the thumbnail and chapters remain.
