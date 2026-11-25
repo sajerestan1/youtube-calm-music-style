@@ -175,3 +175,8 @@ For every new album:
 8. Save frequently, preview the beginning, middle, and end, and verify that the audio, animated clips, and waveform all reach the same endpoint before export.
 
 Use original song titles and lyrics. For the YouTube title, lead with familiar phrases viewers search for and describe the real listening use. Do not use an internal track title as the whole video title unless it clearly tells viewers what they will hear. Chapters and lyric captions must match the measured final mix and the actual audio.
+
+
+## Clone Voice lyrics must be plain text
+
+When using **Create Music**, enter only the lyric words and ordinary punctuation in the lyrics field. Do not add section labels such as verse or chorus, bracket tags, braces, asterisks, Markdown, or decorative symbols. Put production instructions in the separate style field. Keep one song per generation and use the track title as the output name when the app permits it. Do not submit markup that the lyric field may reject.
