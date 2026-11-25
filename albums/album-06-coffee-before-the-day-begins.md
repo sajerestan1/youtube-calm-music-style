@@ -2,68 +2,37 @@
 
 ## Project status
 
-Status: first lyric draft saved; audio generation blocked by Clone Voice daily content cap  \
-Chosen topic: Coffee Before the Day Begins  \
-Listener situation: a gentle, hopeful soundtrack for a calm morning routine before work or the day gets busy.  \
-Target: at least 1:30:00 of original music across the album’s source tracks.  \
-Visual treatment: pending. Ask after the tracks are uploaded to Canva, as required by the workflow.  \
-Canva project: not created yet.  \
+Status: Treblo test successful; two audio versions generated; album production in progress  
+Chosen topic: Coffee Before the Day Begins  
+Listener situation: a gentle, hopeful soundtrack for a calm morning routine before work or the day gets busy.  
+Target: at least 1:30:00 of original music across the album’s source tracks.  
+Visual treatment: still image, per user's instruction. Create a new bright image using the established channel character, then loop it across the finished music.  
+Thumbnail: create a new design from scratch, using the user's supplied reference for layout only. Title at top, channel character centered, short track lists at both sides, runtime badge in lower corner.  
+Canva project: not started. Start a new design/timeline; preserve Album 05.  
 YouTube upload: not started.
 
 ## Sound direction
 
-Warm, mellow acoustic-pop songs with soft male lead vocals, gentle guitar, light piano, restrained percussion, and an easy morning feel. Keep the lyrics plain text in Clone Voice, with no brackets, braces, asterisks, markdown, or section labels. Style instructions go in the style field. Confirm every generated track's actual duration before updating the total.
+Warm, mellow acoustic-pop songs with soft male lead vocals, gentle guitar, light piano, restrained percussion, and an easy morning feel. For Treblo, enter lyrics in its Custom Lyrics field and sound direction in Style description. The Clone Voice saved lyric contains no markup. Confirm actual rendered durations and local downloads before moving tracks into Canva.
 
-## Track 1 draft
+## Treblo first generation
 
-Title: Steam by the Window  
-Clone Voice lyric preview: https://app.clonevoice.ai/music/01a21486-8935-73c4-a584-dd3326c3dffe/lyric  
-Clone Voice record ID: 01a21486-8935-73c4-a584-dd3326c3dffe  
-Status: lyrics draft saved; audio rendering stopped by daily content limit message: “You have reached the maximum content length for today (145 minutes).” No audio file was generated.  
-Style prompt: soft acoustic pop, warm male vocal, gentle fingerpicked acoustic guitar, light piano, restrained brushed percussion, mellow bass, relaxed morning tempo, intimate and hopeful, calm and polished.
+Treblo editor: https://treblo.com/editor/d2783555-d2ab-49b9-b26a-8af702594ab0  
+Source lyrics: saved in the prior version of this record and in the Treblo editor.  
+Style prompt: Warm, mellow acoustic pop with a soft male lead vocal, gentle fingerpicked acoustic guitar, light piano, restrained brushed percussion and mellow bass. Relaxed morning tempo, intimate, hopeful and calm. A natural, memorable melody and clear vocal, with a soft polished mix.
 
-Lyrics:
+| Treblo version | Duration | Export status |
+|---|---:|---|
+| Steam by the Window | 3:14 | WAV export initiated; verify local file |
+| A Little Room to Hope | 4:21 | Generated; no export confirmed |
 
-Steam by the window, a ribbon in the light
-The street is still quiet, the sky is turning bright
-I wrap my hands around the warmth I used to miss
-And let the morning find me here, a moment like this
+Combined generated duration so far: 7:35. This is only a first test and does not meet the 1:30:00 target. The first WAV export was initiated from the track menu; confirm the download exists before using it.
 
-The world can wait beyond the glass
-The day will come, the hours will pass
-But here with coffee, soft and slow
-I have nowhere else I need to go
+## Tracklist
 
-A little sun on the wooden floor
-A song I knew from long before
-One easy breath, one gentle start
-The quiet settles in my heart
-
-The world can wait beyond the glass
-The day will come, the hours will pass
-But here with coffee, soft and slow
-I have nowhere else I need to go
-
-Outside a bus rolls down the lane
-A dog shakes off the night again
-I sip the light, I feel it grow
-And leave a little room to hope
-
-The world can wait beyond the glass
-The day will come, the hours will pass
-But here with coffee, soft and slow
-I have nowhere else I need to go
-
-One last sip, the curtains glow
-The morning is mine before I go
-The street will wake, the plans can wait
-I meet the day at my own pace
-
-## Planned tracklist
-
-| # | Track title | Clone Voice status | Duration |
+| # | Planned track title | Status | Duration |
 |---:|---|---|---:|
-| 1 | Steam by the Window | lyric draft saved; audio blocked by daily cap | — |
+| 1 | Steam by the Window | Treblo version generated | 3:14 |
 | 2 | Sunlight on the Counter | planned | — |
 | 3 | First Cup of the Morning | planned | — |
 | 4 | When the Kettle Starts | planned | — |
@@ -93,13 +62,15 @@ I meet the day at my own pace
 | 28 | The First Easy Hour | planned | — |
 | 29 | Nothing Missing from the Morning | planned | — |
 
-## Music checkpoints
+## Production checkpoints
 
-- Resume by generating the saved Track 1 lyric when the Clone Voice daily cap resets; do not replace it unless needed.
-- Generate and save tracks one at a time.
-- Record exact filenames and measured durations as each track completes.
-- Keep adding original tracks if these 29 do not total at least 1:30:00.
-- Build the final order and chapter timings from the actual track durations, not estimates.
-- Use only Album 06 tracks in its Canva timeline. Keep the audio on one straight lane with no stacked tracks or accidental overlaps.
-- Do not start artwork until the audio has been uploaded to Canva and the user has chosen animated artwork, a user-supplied video, or a still image.
-- Save progress in Clone Voice, Canva, and this file. Record the single next step when pausing.
+- Generate original tracks one by one. Save WAV exports and verify filenames and durations.
+- Use only Album 06 tracks in its new Canva timeline. Place audio on a single straight lane, edge to edge, without stacking or accidental overlap.
+- Once audio files are ready, assemble the timeline to at least 1:30:00. The still image should cover the full duration; mute any source audio on image/video media.
+- Add the established animated sine-wave overlay at the bottom, in a single continuous line across the full music duration. Keep it transparent and unobtrusive.
+- Add Match and Move transitions between any repeated visual segments; don't let visuals outlast the music.
+- Export and verify the finished duration before YouTube upload.
+- Research search-friendly wording before writing the YouTube title and description. Build chapter timestamps from measured track lengths and put them in the description.
+- Use the new thumbnail layout based on the supplied image reference; use the channel character, bright colors, legible side track lists, and accurate total runtime.
+- Schedule the upload for 48 hours after the completed export using London local time, verifying the final date and time in Studio.
+- Save progress after each stage and record the exact next step.
