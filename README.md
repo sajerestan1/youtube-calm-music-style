@@ -205,3 +205,12 @@ For an existing album with no or incorrect thumbnail, edit its existing Studio v
 - Canva audio must be on one straight lane, edge to edge, with no stacked overlap. Duplicate the complete track sequence only until the measured video runtime reaches at least 90:00. Stop on an exact track boundary where practical, then verify the final runtime and chapter times against the exported file.
 - Make a separate Album 04 Canva timeline. Keep the audio, muted motion visual, and waveform aligned to the same end point. Use the Match and Move transition between alternating visual clips if both clips have been checked and their timing fits the audio.
 - Current Album 04 working title: “Relaxing Music for the Train Ride Home | Soft Acoustic Songs to Unwind”. Confirm the final title, thumbnail wording, measured runtime, chapters, and schedule against the finished export before upload.
+
+
+## Album 05 reference and production notes
+
+Album 05 is documented in [albums/album-05-home-feels-like-sunday.md](albums/album-05-home-feels-like-sunday.md). It records the Morning Serenity “Coming Home Vibes” example, the warm human-centered packaging pattern, the distinct Album 05 setting for the recurring OMAZ character, the ten original track names, and the current Clone Voice and Canva state.
+
+Use the same recognizable young man while changing his posture, outfit, activity, and environment from album to album. For this album he is home in a bright apartment after the day, wearing headphones. Keep the scene warm and clearly different from the Album 04 train.
+
+The sample reference video page showed about 62k views at two weeks old on 25 November 2026. The checked frame showed a still image; verify the full video before documenting motion or camera-angle changes. Learn its packaging structure without copying its exact words or artwork.
