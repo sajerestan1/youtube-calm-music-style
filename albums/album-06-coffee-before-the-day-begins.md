@@ -2,75 +2,101 @@
 
 ## Project status
 
-Status: Treblo test successful; two audio versions generated; album production in progress  
+Status: music production in progress; Clone Voice generation has resumed  
 Chosen topic: Coffee Before the Day Begins  
 Listener situation: a gentle, hopeful soundtrack for a calm morning routine before work or the day gets busy.  
-Target: at least 1:30:00 of original music across the album’s source tracks.  
-Visual treatment: still image, per user's instruction. Create a new bright image using the established channel character, then loop it across the finished music.  
-Thumbnail: create a new design from scratch, using the user's supplied reference for layout only. Title at top, channel character centered, short track lists at both sides, runtime badge in lower corner.  
+Target: at least 1:30:00 of original music across the album's source tracks.  
+Visual treatment: still image, per user's instruction. Create a fresh bright image using the established channel character, then loop it across the finished music.  
+Thumbnail: create a new design from scratch using the user's supplied reference for layout: title across the top, channel character centered, concise track lists on both sides, runtime in the lower corner. Use the actual Album 06 character and accurate duration.  
 Canva project: not started. Start a new design/timeline; preserve Album 05.  
 YouTube upload: not started.
 
 ## Sound direction
 
-Warm, mellow acoustic-pop songs with soft male lead vocals, gentle guitar, light piano, restrained percussion, and an easy morning feel. For Treblo, enter lyrics in its Custom Lyrics field and sound direction in Style description. The Clone Voice saved lyric contains no markup. Confirm actual rendered durations and local downloads before moving tracks into Canva.
+Warm, mellow acoustic-pop songs with soft male lead vocals, gentle guitar, light piano, restrained percussion, and an easy morning feel. Keep Clone Voice lyric input plain text without brackets, braces, asterisks, markdown, or section labels. Put style instructions in its style field. Treblo uses a custom lyrics field and a separate style description.
 
-## Treblo first generation
+## Clone Voice status
 
-Treblo editor: https://treblo.com/editor/d2783555-d2ab-49b9-b26a-8af702594ab0  
-Source lyrics: saved in the prior version of this record and in the Treblo editor.  
+The daily generation limit error from the first attempt has cleared. Track 1 now completed:
+
+| Track | Clone Voice record | Duration | Status |
+|---|---|---:|---|
+| Steam by the Window | https://app.clonevoice.ai/audio/01a21629-2ac7-7151-a5ff-6259e5b4258c | 3:39 | completed; WAV not yet verified |
+| Sunlight on the Counter | https://app.clonevoice.ai/audio/01a2162c-0bd0-7314-bf8e-fef37059877a | pending | processing |
+
+The original Track 1 lyric preview is https://app.clonevoice.ai/music/01a21486-8935-73c4-a584-dd3326c3dffe/lyric. Treblo's Sunlight take is a backup; prefer one take per lyric set after listening.
+
+## Treblo-generated versions
+
+Treblo project: https://treblo.com/editor/d2783555-d2ab-49b9-b26a-8af702594ab0  
 Style prompt: Warm, mellow acoustic pop with a soft male lead vocal, gentle fingerpicked acoustic guitar, light piano, restrained brushed percussion and mellow bass. Relaxed morning tempo, intimate, hopeful and calm. A natural, memorable melody and clear vocal, with a soft polished mix.
 
-| Treblo version | Duration | Export status |
-|---|---:|---|
-| Steam by the Window | 3:14 | WAV export initiated; verify local file |
-| A Little Room to Hope | 4:21 | Generated; no export confirmed |
+The following 26 Treblo versions are rendered. The app showed a combined duration of 1:26:51. Use one version per lyric set in the final album to avoid repeating the same lyrics twice; select the better performance after listening, not by duration alone.
 
-Combined generated duration so far: 7:35. This is only a first test and does not meet the 1:30:00 target. The first WAV export was initiated from the track menu; confirm the download exists before using it.
+| Lyric set | Treblo version A | Duration | Treblo version B | Duration |
+|---|---|---:|---|---:|
+| Steam by the Window | Steam by the Window | 3:14 | A Little Room to Hope | 4:21 |
+| Sunlight on the Counter | Sunlight on the Counter | 3:45 | Morning Opens Soft | 3:01 |
+| First Cup of the Morning | The Morning Finds Its Way | 3:43 | One Easy Start | 4:45 |
+| When the Kettle Starts | Let the Kettle Sing | 2:22 | Morning in Its Own Good Time | 2:13 |
+| A Table for Two | A Table for Two | 3:21 | Let the Coffee Cool | 3:47 |
+| The Curtains Let in Gold | Gold Along the Windowsill | 3:21 | At the Pace I Made | 3:15 |
+| Morning Comes in Quietly | Come In Softly | 3:32 | Morning Light | 1:46 |
+| A Little Space to Think | One Small Moment | 4:45 | Quiet Morning | 3:07 |
+| Coffee and Open Windows | Coffee and Open Windows | 2:50 | Small Beginnings | 4:27 |
+| The Street Is Still Asleep | Before the City Wakes | 2:58 | Let the Minutes Go | 2:37 |
+| Warm Hands Around a Mug | Warm Hands | 2:30 | A Gentle Place to Start | 2:36 |
+| Daylight Across the Floor | A Little Warmth Is All I Need | 4:45 | Let the Light Come In | 3:59 |
+| No Rush to Leave | Go When I'm Ready | 2:15 | The Morning Fills the Spaces | 3:36 |
 
-## Tracklist
+The first WAV export was initiated for Treblo's Steam by the Window; verify the local download before using any Treblo audio. No other Treblo exports are confirmed.
 
-| # | Planned track title | Status | Duration |
-|---:|---|---|---:|
-| 1 | Steam by the Window | Treblo version generated | 3:14 |
-| 2 | Sunlight on the Counter | planned | — |
-| 3 | First Cup of the Morning | planned | — |
-| 4 | When the Kettle Starts | planned | — |
-| 5 | A Table for Two | planned | — |
-| 6 | The Curtains Let in Gold | planned | — |
-| 7 | Morning Comes in Quietly | planned | — |
-| 8 | A Little Space to Think | planned | — |
-| 9 | Coffee and Open Windows | planned | — |
-| 10 | The Street Is Still Asleep | planned | — |
-| 11 | Warm Hands Around a Mug | planned | — |
-| 12 | Daylight Across the Floor | planned | — |
-| 13 | No Rush to Leave | planned | — |
-| 14 | A Slow Start Together | planned | — |
-| 15 | Breakfast with the Sun | planned | — |
-| 16 | This Morning Feels Like Ours | planned | — |
-| 17 | A Moment Before the Messages | planned | — |
-| 18 | Shoes Beside the Door | planned | — |
-| 19 | The World Can Wait a Little | planned | — |
-| 20 | Buttered Toast and Daylight | planned | — |
-| 21 | The Window Facing East | planned | — |
-| 22 | When the City Stirs | planned | — |
-| 23 | The Calm Before the Call | planned | — |
-| 24 | A Good Day Taking Shape | planned | — |
-| 25 | One More Sip Before I Go | planned | — |
-| 26 | The Long Way into Morning | planned | — |
-| 27 | Home Before the Noise | planned | — |
-| 28 | The First Easy Hour | planned | — |
-| 29 | Nothing Missing from the Morning | planned | — |
+## Next music steps
 
-## Production checkpoints
+- Finish the Clone Voice Sunlight on the Counter render and record its duration.
+- Generate ten more distinct Clone Voice songs from the planned tracklist, keeping the same style and avoiding lyric repetition.
+- Confirm actual audio durations and download WAV files. Keep a verified running total of the final chosen takes until it reaches at least 1:30:00.
+- Use Clone Voice's versions instead of Treblo alternatives when they are the stronger take for the same lyric set.
+- Build the final chapter order from measured durations. Do not estimate timestamps.
 
-- Generate original tracks one by one. Save WAV exports and verify filenames and durations.
-- Use only Album 06 tracks in its new Canva timeline. Place audio on a single straight lane, edge to edge, without stacking or accidental overlap.
-- Once audio files are ready, assemble the timeline to at least 1:30:00. The still image should cover the full duration; mute any source audio on image/video media.
-- Add the established animated sine-wave overlay at the bottom, in a single continuous line across the full music duration. Keep it transparent and unobtrusive.
-- Add Match and Move transitions between any repeated visual segments; don't let visuals outlast the music.
-- Export and verify the finished duration before YouTube upload.
-- Research search-friendly wording before writing the YouTube title and description. Build chapter timestamps from measured track lengths and put them in the description.
-- Use the new thumbnail layout based on the supplied image reference; use the channel character, bright colors, legible side track lists, and accurate total runtime.
-- Schedule the upload for 48 hours after the completed export using London local time, verifying the final date and time in Studio.
-- Save progress after each stage and record the exact next step.
+## Planned additional song titles
+
+1. First Cup of the Morning
+2. When the Kettle Starts
+3. A Table for Two
+4. The Curtains Let in Gold
+5. Morning Comes in Quietly
+6. A Little Space to Think
+7. Coffee and Open Windows
+8. The Street Is Still Asleep
+9. Warm Hands Around a Mug
+10. Daylight Across the Floor
+11. No Rush to Leave
+12. A Slow Start Together
+13. Breakfast with the Sun
+14. This Morning Feels Like Ours
+15. A Moment Before the Messages
+16. Shoes Beside the Door
+17. The World Can Wait a Little
+18. Buttered Toast and Daylight
+19. The Window Facing East
+20. When the City Stirs
+21. The Calm Before the Call
+22. A Good Day Taking Shape
+23. One More Sip Before I Go
+24. The Long Way into Morning
+25. Home Before the Noise
+26. The First Easy Hour
+27. Nothing Missing from the Morning
+
+## Video and release checkpoints
+
+- Use only Album 06 tracks in its new Canva timeline. Place audio on one straight lane, edge to edge, with no stacked tracks or accidental overlap.
+- Loop a new bright still image of the established channel character across the full music duration; mute any source audio on image/video media.
+- Add the established animated sine-wave overlay at the bottom, continuous from start to finish, transparent and unobtrusive.
+- Add Match and Move between repeated visual segments; visuals must not outlast the music.
+- Export and verify the final duration before YouTube upload.
+- Research search-friendly wording before writing the YouTube title and description. Build chapter timestamps from measured track lengths and include them in the description.
+- Use a new thumbnail based on the supplied sample layout, with the channel character, readable track names, and the accurate runtime.
+- Schedule the upload for 48 hours after the finished export using London local time. Verify the final date/time in Studio.
+- Save progress after each stage and record the next action.
