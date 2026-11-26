@@ -66,7 +66,7 @@ A prior Treblo WAV export was initiated for Steam by the Window. Album 06 export
 ## Remaining music and editing steps
 
 - Resolve the Clone Voice download location or export issue so the 15 generated files become available on the computer.
-- Export one selected Treblo take from each of the 13 lyric sets; listen and choose the better performance for each pair.
+- Resolve the Treblo browser download location, then export one selected take from each of the 13 lyric sets. The planned longer takes total 49:30; do not count them until the files are verified.
 - Confirm the chosen files' durations and total the final album runtime. Do not rely on the provisional 1:31:40 estimate.
 - Upload only selected Album 06 music to a new Canva design. Place audio on one straight lane, edge to edge, with no stacked tracks or unintended overlap.
 - Use a new bright still image of the established channel character and loop it across the full track. Mute source audio on any visual clip.
