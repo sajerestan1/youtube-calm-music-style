@@ -68,9 +68,9 @@ After the export is verified:
 3. Make a separate, bright, attractive thumbnail using the **same recognizable Omazmusic character shown in this album's video**. Keep the person and image quality consistent with the video. Use clear, high-contrast text with careful placement and include the real duration only if it fits the design.
 4. Write a natural description with the real album details and **verified timestamps/chapters** from the final audio. Start chapters at `00:00`, use exact track titles and measured start times, and ensure the final chapter list matches the exported file. Do not guess times. Add relevant credits and a few accurate search phrases.
 5. Add specific, accurate tags for this video's actual music, mood, use case, and setting. Follow the tag checklist in §7.
-6. Upload to the **Omazmusic YouTube channel**. Schedule it for **48 hours after the upload is ready**, using the correct `Europe/London` local time (including GMT/BST for the date). Check the title, description, thumbnail, tags, audience, visibility, date, and displayed UK time before confirming.
+6. Upload to the **Omazmusic YouTube channel**. Schedule it for **48 hours after the latest already scheduled Omazmusic video**, using the correct `Europe/London` local time (including GMT/BST for the date). Check the newest scheduled video first; do not calculate from the current upload-ready time. Check the title, description, thumbnail, tags, audience, visibility, date, and displayed UK time before confirming.
 7. Verify in YouTube Studio that the video is scheduled and record its link, schedule, and status in the album record.
-8. Publish the video's Community announcement with its watch link, following §7. If scheduled, wait until the video is public before posting that it is available.
+8. Publish a Community announcement for each scheduled or published video, following §7. For a scheduled video, describe it as upcoming and include its watch link and confirmed UK release time. Never say it is already available before release.
 
 The user has asked for this standard Omazmusic upload and 48-hour UK scheduling workflow. Follow it for each album and report any step that genuinely needs the user's input or action.
 
@@ -95,8 +95,8 @@ At the end of a session, save in Clone Voice, Canva, and YouTube Studio where ap
 For every video upload:
 
 1. Add tags that describe the actual album: its listener use case, music style, vocal/instrumental content, mood, and setting when those are audible or visible. Use the final audio and video as evidence. Do not reuse an unrelated tag set, add misleading terms, or pad tags with repeated keywords. Keep tags within YouTube's field limit and verify the saved tag chips before leaving Details.
-2. After scheduling or publishing, create a short Community post for that specific video. Mention the real listener use case and album, invite viewers to listen, and include the video's watch link. Keep the wording natural and accurate; do not make unsupported claims or promise results.
-3. Use the watch URL from the current upload. If the upload is scheduled and the link is not yet publicly playable, save the video link and publish the Community post when the video becomes public. Do not announce it as available before then.
+2. For every scheduled or published video, create a short Community post for that specific video. Mention the real listener use case and album, invite viewers to listen, and include the video's watch link. If it is scheduled, clearly say when it will be released in UK time and frame it as an upcoming video. Keep the wording natural and accurate; do not make unsupported claims or promise results.
+3. Use the watch URL from the current upload. Scheduled links may not play until release, but still include the link in an upcoming announcement. Do not claim the video is available before release.
 4. Verify the post appears in the Omazmusic Community tab and record its link or status in the album record.
 
-Community posts are part of the standard publishing workflow for every video. Do not leave them as an optional suggestion.
+Community posts are required for every scheduled or published video. When asked to announce previously scheduled videos, inspect YouTube Studio and post for each scheduled video that has not already been announced. Do not duplicate an existing announcement.
