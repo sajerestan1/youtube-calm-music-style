@@ -2,7 +2,7 @@
 
 ## Project status
 
-Status: Clone Voice music generation complete; audio export underway. Canva timeline and YouTube upload not started.
+Status: 15 Clone Voice songs generated. Clone Voice reported each download as successful, but the files are not present in the computer's Downloads folder. Canva timeline and YouTube upload not started.
 
 Chosen topic: Coffee Before the Day Begins  
 Listener situation: gentle, hopeful songs for a calm morning routine before work or the day gets busy.  
@@ -18,7 +18,7 @@ Warm, mellow acoustic-pop songs with soft male lead vocals, gentle guitar, light
 
 ## Clone Voice tracks
 
-All 15 Clone Voice songs for this album have completed. Their combined runtime is 42:10. Downloads were initiated from My Audio; verify the files are present before Canva upload.
+All 15 Clone Voice songs for this album have completed. Their combined runtime is 42:10. Clone Voice's My Audio page reported the downloads as successful, but a check of the computer's Downloads folder found none of these files. The audio is not yet available for Canva upload.
 
 | # | Track | Duration | Status |
 |---:|---|---:|---|
@@ -61,11 +61,11 @@ The project contains 26 versions across 13 lyric sets and showed 1:26:51 total. 
 | Daylight Across the Floor | A Little Warmth Is All I Need | 4:45 | Let the Light Come In | 3:59 |
 | No Rush to Leave | Go When I'm Ready | 2:15 | The Morning Fills the Spaces | 3:36 |
 
-The first Treblo WAV export was initiated for Steam by the Window. Verify that file and export the selected take from each lyric set before using them.
+A prior Treblo WAV export was initiated for Steam by the Window. Album 06 exports are not verified on the computer. Use one selected take from each lyric set only if the local file is verified.
 
 ## Remaining music and editing steps
 
-- Verify that the 15 Clone Voice downloads finished and have usable filenames.
+- Resolve the Clone Voice download location or export issue so the 15 generated files become available on the computer.
 - Export one selected Treblo take from each of the 13 lyric sets; listen and choose the better performance for each pair.
 - Confirm the chosen files' durations and total the final album runtime. Do not rely on the provisional 1:31:40 estimate.
 - Upload only selected Album 06 music to a new Canva design. Place audio on one straight lane, edge to edge, with no stacked tracks or unintended overlap.
