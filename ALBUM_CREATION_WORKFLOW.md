@@ -67,8 +67,10 @@ After the export is verified:
 2. Write an original title that a person might actually search for and that accurately describes this album and its use. Avoid vague internal track names and do not repeat “relaxing” in every album title. Never claim instruments, vocals, mood, or duration that are not in the audio.
 3. Make a separate, bright, attractive thumbnail using the **same recognizable Omazmusic character shown in this album's video**. Keep the person and image quality consistent with the video. Use clear, high-contrast text with careful placement and include the real duration only if it fits the design.
 4. Write a natural description with the real album details and **verified timestamps/chapters** from the final audio. Start chapters at `00:00`, use exact track titles and measured start times, and ensure the final chapter list matches the exported file. Do not guess times. Add relevant credits and a few accurate search phrases.
-5. Upload to the **Omazmusic YouTube channel**. Schedule it for **48 hours after the upload is ready**, using the correct `Europe/London` local time (including GMT/BST for the date). Check the title, description, thumbnail, audience, visibility, date, and displayed UK time before confirming.
-6. Verify in YouTube Studio that the video is scheduled and record its link, schedule, and status in the album record.
+5. Add specific, accurate tags for this video's actual music, mood, use case, and setting. Follow the tag checklist in §7.
+6. Upload to the **Omazmusic YouTube channel**. Schedule it for **48 hours after the upload is ready**, using the correct `Europe/London` local time (including GMT/BST for the date). Check the title, description, thumbnail, tags, audience, visibility, date, and displayed UK time before confirming.
+7. Verify in YouTube Studio that the video is scheduled and record its link, schedule, and status in the album record.
+8. Publish the video's Community announcement with its watch link, following §7. If scheduled, wait until the video is public before posting that it is available.
 
 The user has asked for this standard Omazmusic upload and 48-hour UK scheduling workflow. Follow it for each album and report any step that genuinely needs the user's input or action.
 
@@ -82,6 +84,19 @@ For each album, update its file in `albums/` with:
 - chosen visual treatment and asset filenames
 - Canva design link and saved timeline end
 - thumbnail, YouTube title, description/chapter list, and scheduled date/time
+- video-specific tags and Community post text, watch URL, post URL/status
 - current state and the single next action if work pauses
 
 At the end of a session, save in Clone Voice, Canva, and YouTube Studio where applicable. Do not leave a track half-generated or a timeline change unverified and describe it as complete.
+
+
+## 7. Video-specific tags and Community announcement
+
+For every video upload:
+
+1. Add tags that describe the actual album: its listener use case, music style, vocal/instrumental content, mood, and setting when those are audible or visible. Use the final audio and video as evidence. Do not reuse an unrelated tag set, add misleading terms, or pad tags with repeated keywords. Keep tags within YouTube's field limit and verify the saved tag chips before leaving Details.
+2. After scheduling or publishing, create a short Community post for that specific video. Mention the real listener use case and album, invite viewers to listen, and include the video's watch link. Keep the wording natural and accurate; do not make unsupported claims or promise results.
+3. Use the watch URL from the current upload. If the upload is scheduled and the link is not yet publicly playable, save the video link and publish the Community post when the video becomes public. Do not announce it as available before then.
+4. Verify the post appears in the Omazmusic Community tab and record its link or status in the album record.
+
+Community posts are part of the standard publishing workflow for every video. Do not leave them as an optional suggestion.
