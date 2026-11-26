@@ -31,7 +31,7 @@ If a track generation or upload truly requires the user's action, explain the ex
 
 **After the album tracks are uploaded to Canva, ask the user to choose one option before making or placing the main visual:**
 
-1. **Animated artwork:** create a new scene with the recurring Omazmusic character and animate it in Canva. Make three short, gentle animation clips from different viewing angles while preserving the same recognizable face and channel identity.
+1. **Animated artwork:** create three separate source images of the recurring Omazmusic character in the selected scene, each from a distinct camera angle. Keep his face, clothes, beach setting, light, and overall scene consistent across the images. Animate each image separately in Canva, then sequence the three gentle clips. Preserve the recognizable channel identity and mute any generated clip audio.
 2. **User-supplied video:** the user uploads the chosen video and places it on the Canva timeline. Then extend or duplicate it to cover the full music duration.
 3. **Still artwork:** create a new image for this album and place it on the Canva timeline.
 
