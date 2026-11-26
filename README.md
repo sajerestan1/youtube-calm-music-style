@@ -4,7 +4,7 @@ This repository records the production process for original long-form music vide
 
 > **For every new album, read [ALBUM_CREATION_WORKFLOW.md](ALBUM_CREATION_WORKFLOW.md) first. It is the current step-by-step instruction and takes precedence over older or album-specific notes below.** Start by offering exactly five topic choices and wait for the user's choice. After the tracks are made and uploaded to Canva, ask whether the album will use three-angle animated artwork, a user-supplied video clip, or a still image.
 
-The workflow file covers track creation to at least 90 minutes, the Canva timeline, subtitle timing, waveform and transitions, export checks, YouTube title and thumbnail research, verified description timestamps, and scheduling 48 hours ahead in UK local time. Keep the album notes below as history and project context; do not follow older steps when they conflict with the current workflow.
+The workflow file covers track creation to at least 90 minutes, the Canva timeline, subtitle timing, waveform and transitions, export checks, YouTube title and thumbnail research, verified description timestamps, and scheduling 72 hours (three days) after the latest scheduled upload in UK local time. Keep the album notes below as history and project context; do not follow older steps when they conflict with the current workflow.
 
 ## Creative direction
 
@@ -129,7 +129,7 @@ If a session resumes with a project already open, inspect the current project an
 2. Compare several relevant uploads. Look for repeated listener use cases and plain search phrases, such as relaxing after work, reading, studying, winding down, or listening on the way home. Note what recurs across examples, then write an original title that clearly matches this album and sounds natural when spoken. Do not copy another channel's exact title, branding, description, or artwork.
 3. Draft a useful description in ordinary language. State what the listener will hear and when it may suit them, give the real runtime, include verified track names and chapters when timing is confirmed, and credit Omazmusic and any required collaborators or sources. Do not claim sleep, study, instruments, lyrics, or benefits unless the audio supports the claim. Use only a few relevant search phrases naturally; do not stuff keywords.
 4. Prepare the final title, description, thumbnail, audience setting, visibility, and upload file for the Omazmusic YouTube channel. Review the final video and metadata together before upload.
-5. Set the planned publication for 48 hours after the upload is ready. Convert the intended date and time to UK local time (Europe/London), accounting for GMT/BST on that date, and check the exact time displayed by YouTube Studio before confirming. Keep a record of the scheduled date, UK time, and YouTube Studio status. If the user has not approved the final package and time, prepare the upload but do not confirm the schedule.
+5. Set the planned publication for 72 hours (three days) after the latest already scheduled Omazmusic video. Convert the intended date and time to UK local time (Europe/London), accounting for GMT/BST on that date, and check the exact time displayed by YouTube Studio before confirming. Keep a record of the scheduled date, UK time, and YouTube Studio status. If the user has not approved the final package and time, prepare the upload but do not confirm the schedule.
 6. After scheduling, reopen YouTube Studio and verify the video appears with the correct title, visibility, date, and UK time. Record the video link and scheduled details in the project manifest.
 
 
@@ -152,7 +152,7 @@ Canva is the main project for assembling, saving, and exporting each Omazmusic a
 5. Use Canva’s Captions app only when the audio contains speech or sung lyrics. Check captions against the audio. Do not use speech captions for instrumental music; the first album’s auto-caption pass invented lyrics.
 6. Save often. Preview the start, a middle point, and the end. Confirm the audio, artwork, and waveform all reach the same final time and check for gaps or abrupt loops.
 7. Export from Canva as a 1920 × 1080 MP4. Open the export and verify its actual duration and playback near the beginning, middle, and end. Do not rely on the timeline display alone.
-8. Prepare the Omazmusic title, description, and chapters from verified audio content and timing. Schedule for 48 hours after the upload is ready, using Europe/London local time. Upload and confirm scheduling only after the user approves the final package and displayed publication time.
+8. Prepare the Omazmusic title, description, and chapters from verified audio content and timing. Schedule for 72 hours (three days) after the latest already scheduled Omazmusic video, using Europe/London local time. Upload and confirm scheduling only after the user approves the final package and displayed publication time.
 
 Use the earlier Video Express motion instructions only when a separate motion asset is needed for import into Canva. Do not assemble or export the album in Video Express.
 
